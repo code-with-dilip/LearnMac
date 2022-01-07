@@ -12,6 +12,11 @@ ps ax | grep java
 kill -TERM <processid>
 
 ```
+## How to uninstall an app
+
+```
+sudo rm -rf /Applications/Docker.app
+```
 
 ## How to sudo  in Mac ?
 
