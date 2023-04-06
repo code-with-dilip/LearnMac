@@ -187,6 +187,16 @@ Download the postgres client **pgAdmin** from the below link.
 
 [PostGres Client](https://www.postgresql.org/ftp/pgadmin3/pgadmin4/v1.1/macos/)
 
+## SdkMan
+
+
+- Command to list the local java versions
+
+```sdk list java local  
+```
+
+- Command to use a specific version
+
 # Gradle 
 ## How to set up gradle in local
 
