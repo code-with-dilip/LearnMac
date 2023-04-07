@@ -194,8 +194,14 @@ Download the postgres client **pgAdmin** from the below link.
 
 ```sdk list java local  
 ```
+    - You will notice the installed message in the status of the list thats displayed.
 
 - Command to use a specific version
+
+```
+sdk use java 17.0.5-tem
+sdk use java 11.0.18-tem
+```
 
 # Gradle 
 ## How to set up gradle in local
