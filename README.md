@@ -203,6 +203,14 @@ sdk use java 17.0.5-tem
 sdk use java 11.0.18-tem
 ```
 
+- To simplify things, set this up in the Zshell
+
+```
+alias j17="sdk use java 17.0.5-tem"
+alias j11="sdk use java 11.0.18-tem"
+
+```
+
 # Gradle 
 ## How to set up gradle in local
 
