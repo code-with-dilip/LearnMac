@@ -189,14 +189,27 @@ Download the postgres client **pgAdmin** from the below link.
 
 ## SdkMan
 
+- Installation steps are available in this link.
+
+```
+https://sdkman.io/install
+
+```
 
 - Command to list the local java versions
 
-```sdk list java local  
+```
+sdk list java local  
 ```
     - You will notice the installed message in the status of the list thats displayed.
 
-- Command to use a specific version
+- Command template to install a specific version.
+
+```
+sdk install java <Identifier>
+
+```
+- Example:
 
 ```
 sdk use java 17.0.5-tem
